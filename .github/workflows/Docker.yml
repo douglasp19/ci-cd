@@ -35,7 +35,7 @@ jobs:
     # Push is a shorthand for --output=type=registry
         push: true
     # List of tags
-        tags: dougluck/go_ci:${{github.ref_name}}
+        tags: dougluck/go_ci
         
     # Specifies whether the given registry is ECR (auto, true or false)
         ecr: auto
