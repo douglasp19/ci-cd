@@ -37,7 +37,3 @@ jobs:
     # List of tags
         tags: dougluck/go_ci
         
-    # Specifies whether the given registry is ECR (auto, true or false)
-        ecr: auto
-    # Log out from the Docker registry at the end of a job
-        logout: true
