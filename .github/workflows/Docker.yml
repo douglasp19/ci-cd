@@ -41,5 +41,5 @@ jobs:
     # Push is a shorthand for --output=type=registry
         push: true
     # List of tags
-        tags: dougluck/go_ci
+        tags: dougluck/go_ci_1
         
